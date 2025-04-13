@@ -2,3 +2,13 @@
     background-color: #272727;
     color: white;
 }
+
+.home,
+.title {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
