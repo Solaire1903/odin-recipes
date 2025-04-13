@@ -8,7 +8,32 @@
     text-align: center;
 }
 
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 img {
     display: block;
     margin: auto;
+}
+
+#recipe-list {
+    display: block;
+    text-align: center;
+}
+
+#recipe-list a,
+.home a {
+    color: #649de7;
+}
+
+#recipe-list a {
+    font-size: large;
+    padding: 8px;
+    display: block;  
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
 }
